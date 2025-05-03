@@ -1,0 +1,46 @@
+ECS Biohacked Knowledgebase License Agreement
+© 2024–2025 The ECS Therapeutic Consortium. All Rights Reserved.
+
+Authored by: Anwar Mohamed | https://orcid.org/0009-0000-6043-9275  
+Repository: https://github.com/The-ECS-Therapeutic-Consortium/ECS-Biohacked-Knowledgebase
+
+
+🔒 License Summary
+
+This repository and all its contents—including but not limited to white papers, datasets, visual frameworks, and therapeutic modules—are protected under copyright and intellectual property law.
+
+You may:
+
+✅ View, clone, and reference this repository for educational, academic, and non-commercial research purposes.  
+✅ Cite published works with appropriate DOI and attribution.
+
+You may NOT:
+
+❌ Use this repository, in whole or in part, for commercial purposes without explicit written permission.  
+❌ Copy, modify, or integrate its contents into commercial products, services, platforms, or clinical applications.  
+❌ Resell, sublicense, or redistribute any portion of the repository outside of non-commercial academic use.
+
+
+💼 Licensing, Acquisition & Commercial Use
+
+All commercial inquiries (including partial or full acquisition, sublicensing of frameworks, datasets, or visual IP) must be directed to:
+
+Anwar Mohamed  
+✉️ ecssignalling@gmail.com  
+🔗 ORCID: https://orcid.org/0009-0000-6043-9275  
+🔗 GitHub: https://github.com/TeamMohamed  
+🔗 Zenodo Community: https://zenodo.org/communities/quantum-biology-os/
+
+This repository includes timestamped, DOI-linked, and publicly documented intellectual property, and is protected as such.
+
+
+📜 Formal Copyright
+
+© The ECS Therapeutic Consortium | TeamMohamed  
+All works are timestamped via Zenodo, Preprints.org, and GitHub.  
+Unauthorized commercial use or misrepresentation will result in legal enforcement.
+
+
+🧠 If you're here to collaborate: Welcome.  
+💸 If you're here to profit from it: Let's talk terms first.
+
