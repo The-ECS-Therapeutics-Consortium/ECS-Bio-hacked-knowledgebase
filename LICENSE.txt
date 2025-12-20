@@ -1,46 +1,93 @@
-ECS Biohacked Knowledgebase License Agreement
+ECS Biohacked Knowledgebase License Agreement  
 © 2024–2025 The ECS Therapeutic Consortium. All Rights Reserved.
 
-Authored by: Anwar Mohamed | https://orcid.org/0009-0000-6043-9275  
-Repository: https://github.com/The-ECS-Therapeutic-Consortium/ECS-Biohacked-Knowledgebase
+Authored by: Anwar Mohamed  
+ORCID: https://orcid.org/0009-0000-6043-9275  
+
+Repository:
+https://github.com/The-ECS-Therapeutics-Consortium/ECS-Bio-hacked-knowledgebase
 
 
-🔒 License Summary
+────────────────────────────────────────
+LICENSE SUMMARY
+────────────────────────────────────────
 
-This repository and all its contents—including but not limited to white papers, datasets, visual frameworks, and therapeutic modules—are protected under copyright and intellectual property law.
+This repository and all its contents—including but not limited to white papers,
+datasets, visual frameworks, protocol architectures, pathway models, and
+associated documentation—are protected under copyright and intellectual
+property law.
 
-You may:
 
-✅ View, clone, and reference this repository for educational, academic, and non-commercial research purposes.  
-✅ Cite published works with appropriate DOI and attribution.
+You MAY:
+
+✔ View and read the contents of this repository.  
+✔ Clone the repository **for inspection, verification, reproducibility, and citation only**.  
+✔ Reference and cite published works with appropriate attribution and DOI.
+
 
 You may NOT:
 
-❌ Use this repository, in whole or in part, for commercial purposes without explicit written permission.  
-❌ Copy, modify, or integrate its contents into commercial products, services, platforms, or clinical applications.  
-❌ Resell, sublicense, or redistribute any portion of the repository outside of non-commercial academic use.
+✘ Use this repository, in whole or in part, for commercial purposes without
+explicit written permission.  
+✘ Fork, modify, transform, or create derivative works from this repository
+without written consent.  
+✘ Integrate any portion of this repository into commercial products, services,
+platforms, software, clinical tools, or enterprise systems.  
+✘ Resell, sublicense, redistribute, or repackage any part of this repository
+outside of non-commercial academic use.
 
 
-💼 Licensing, Acquisition & Commercial Use
+────────────────────────────────────────
+RELATIONSHIP TO QTOS
+────────────────────────────────────────
 
-All commercial inquiries (including partial or full acquisition, sublicensing of frameworks, datasets, or visual IP) must be directed to:
+This repository is **architecturally and legally separate** from QTOS, Rubik,
+and any deterministic kernel, constraint system, or invariant enforcement layer.
+
+No rights to QTOS, Rubik, or any associated kernel logic, state-transition rules,
+or invariants are granted or implied by access to this repository.
+
+
+────────────────────────────────────────
+LICENSING & COMMERCIAL USE
+────────────────────────────────────────
+
+Commercial, clinical, enterprise, or institutional use—including licensing,
+acquisition, or sublicensing of frameworks, datasets, visual IP, or applied
+architectures—requires explicit written agreement.
+
+All commercial inquiries must be directed to:
 
 Anwar Mohamed  
-✉️ ecssignalling@gmail.com  
-🔗 ORCID: https://orcid.org/0009-0000-6043-9275  
-🔗 GitHub: https://github.com/TeamMohamed  
-🔗 Zenodo Community: https://zenodo.org/communities/quantum-biology-os/
-
-This repository includes timestamped, DOI-linked, and publicly documented intellectual property, and is protected as such.
+Email: ecssignalling@gmail.com  
+ORCID: https://orcid.org/0009-0000-6043-9275  
+GitHub: https://github.com/TeamMohamed  
+Zenodo Community: https://zenodo.org/communities/quantum-biology-os/
 
 
-📜 Formal Copyright
+────────────────────────────────────────
+FORMAL NOTICE
+────────────────────────────────────────
 
-© The ECS Therapeutic Consortium | TeamMohamed  
-All works are timestamped via Zenodo, Preprints.org, and GitHub.  
-Unauthorized commercial use or misrepresentation will result in legal enforcement.
+All works are timestamped and documented via Zenodo, Preprints.org, and GitHub.
+
+Unauthorized commercial use, misrepresentation, or derivative exploitation will
+constitute a violation of intellectual property law and may result in legal
+enforcement.
 
 
-🧠 If you're here to collaborate: Welcome.  
-💸 If you're here to profit from it: Let's talk terms first.
+────────────────────────────────────────
+INTENT
+────────────────────────────────────────
 
+🧠 Academic & Research Use
+This repository is openly available for study, learning, citation, and non-commercial academic collaboration.
+Researchers, students, and institutions are welcome to explore and reference the work with proper attribution.
+
+💼 Commercial & Product Use
+Any use of this repository or its contents in commercial products, platforms, services, or revenue-generating activities requires prior licensing or written agreement.
+
+All materials are timestamped, versioned, and protected as documented intellectual property.
+Unauthorized commercial use, misrepresentation, or derivative exploitation constitutes infringement and will be addressed through appropriate legal channels.
+
+For licensing, collaboration, or institutional engagement, please make contact before use.
